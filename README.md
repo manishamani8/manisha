@@ -1,6 +1,6 @@
 [![MasterHead](https://www.lll.tum.de/wp-content/uploads/2021/09/TUM-Header-1920x600_DataScience.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ampavathina Manisha</h1>
-<h3 align="center">"Driven 3rd Year B.Tech Student with a Passion for Data Analysis | Power BI | SQL | Python Enthusiast"</h3>
+<h3 align="center">"Driven 3rd Year B.Tech Student with a Passion for Data Analysis | Power BI | SQL  |Python Enthusiast"</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishamani8&label=Profile%20views&color=0e75b6&style=flat" alt="manishamani8" /> </p>
